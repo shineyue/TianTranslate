@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">TianTranslate</string>
+    <string name="app_name">Translate</string>
+
+    <string name="retry">Refresh</string>
+    <string name="enter">Enter</string>
+    <string name="welcome">Start Playing</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="ble_not_open">Bluetooth is off</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="reminder_title">Sleep Reminder</string>
+    <string name="reminder_notification_title">Message notification not enabled</string>
+
 </resources>
