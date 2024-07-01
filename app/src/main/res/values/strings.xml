@@ -13,4 +13,9 @@
     <string name="reminder_title">Sleep Reminder</string>
     <string name="reminder_notification_title">Message notification not enabled</string>
 
+    <plurals name="incoming_call_delay_tips">
+        <item quantity="one">Remind me %d second after phone call comes in</item>
+        <item quantity="other">Remind me %d seconds after phone call comes in</item>
+    </plurals>
+
 </resources>
