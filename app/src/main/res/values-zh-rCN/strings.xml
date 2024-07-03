@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">翻译</string>
+    <string name="retry">刷新</string>
+    <string name="enter">进来</string>
+    <string name="welcome">开始播放</string>
+    <string name="skip">跳过</string>
+</resources>
