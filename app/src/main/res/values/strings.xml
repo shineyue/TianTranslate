@@ -20,4 +20,6 @@
 
     <string name="update_now">Update now</string>
 
+    <string name="plan_icon_toast">Please connect the device first.</string>
+
 </resources>
