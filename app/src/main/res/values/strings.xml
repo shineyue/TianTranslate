@@ -18,4 +18,6 @@
         <item quantity="other">Remind me %d seconds after phone call comes in</item>
     </plurals>
 
+    <string name="update_now">Update now</string>
+
 </resources>
