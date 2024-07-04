@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Translate</string>
-
     <string name="retry">Refresh</string>
     <string name="enter">Enter</string>
     <string name="welcome">Start Playing</string>
@@ -12,14 +12,11 @@
     <string name="exit">Exit</string>
     <string name="reminder_title">Sleep Reminder</string>
     <string name="reminder_notification_title">Message notification not enabled</string>
-
     <plurals name="incoming_call_delay_tips">
         <item quantity="one">Remind me %d second after phone call comes in</item>
         <item quantity="other">Remind me %d seconds after phone call comes in</item>
     </plurals>
-
     <string name="update_now">Update now</string>
-
     <string name="plan_icon_toast">Please connect the device first.</string>
-
+    <string name="app_name_aura">Zepp Aura</string>
 </resources>
